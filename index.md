@@ -3,3 +3,4 @@
 FCP                       | State     | Owners                | Title
 --------------------------|-----------|-----------------------|------
 [FCP 0](./fcp-0000.md)    | feedback  | allanjude, gnn, benno | FreeBSD Community Proposal Process and Authoring Guide
+[FCP 100](./fcp-0100.md)  | draft     | allanjude             | XUIO: Copy Reduction for File Systems and File Sharing
