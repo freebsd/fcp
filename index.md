@@ -3,4 +3,4 @@
 FCP                       | State     | Owners                | Title
 --------------------------|-----------|-----------------------|------
 [FCP 0](./fcp-0000.md)    | feedback  | allanjude, gnn, benno | FreeBSD Community Proposal Process and Authoring Guide
-[FCP 100](./fcp-0100.md)  | draft     | imp                   | Crearing armv7 MACHINE_ARCH
+[FCP 100](./fcp-0100.md)  | draft     | imp                   | Creating armv7 MACHINE_ARCH
