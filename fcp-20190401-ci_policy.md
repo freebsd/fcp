@@ -4,7 +4,7 @@ authors: Kristof Provost <kp@FreeBSD.org>,
 state: draft
 ---
 
-# FCP 102: CI policy
+# FCP 20190401-ci_policy: CI policy
 
 This document aims to present a set of policies to ensure that FreeBSD src is
 consistently in a buildable and functional state.
