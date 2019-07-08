@@ -67,8 +67,8 @@ be given a reasonable amount of time to respond.
 This time will vary depending on the severity of the problem and how many
 platforms it affects:
 
- - If a commit broke compilation on all platforms, it can be reverted
-   immediately
+ - If a commit broke compilation on all platforms, it can be reverted after
+   15 minutes
  - If a commit broke compilation on a tier 1 platform, it can be reverted after
    4 hours
  - If a commit broke compilation on tier 2 or 3 platforms, it can be reverted
