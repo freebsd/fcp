@@ -1,7 +1,7 @@
 ---
 authors: Kristof Provost <kp@FreeBSD.org>,
     Li-Wen Hsu <lwhsu@FreeBSD.org>
-state: draft
+state: feedback
 ---
 
 # FCP 20190401-ci_policy: CI policy
