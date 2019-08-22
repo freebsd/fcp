@@ -88,7 +88,7 @@ explicitly mention the revision it is reverting and explain why.
 
 For example:
 
-    Revert rNNNNNN:
+    Revert rNNNNNN: <original commit headline>
 
     This does not build in i386:
       <Compiler error message>
